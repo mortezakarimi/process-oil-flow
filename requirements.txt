@@ -4,7 +4,7 @@ kiwisolver==1.4.5
 matplotlib==3.9.0
 numpy==1.22.0
 opencv-contrib-python==4.9.0.80
-opencv-python==4.5.2.54
+opencv-python==4.9.0.80
 Pillow==10.2.0
 progressbar2==3.53.1
 pycodestyle==2.7.0
