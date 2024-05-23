@@ -2,7 +2,7 @@ autopep8==1.7.0
 cycler==0.12.1
 kiwisolver==1.4.5
 matplotlib==3.9.0
-numpy==1.22.0
+numpy==1.26.4
 opencv-contrib-python==4.9.0.80
 opencv-python==4.5.2.54
 Pillow==10.2.0
