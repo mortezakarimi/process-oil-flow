@@ -1,4 +1,4 @@
-autopep8==1.7.0
+autopep8==2.3.0
 cycler==0.12.1
 kiwisolver==1.4.5
 matplotlib==3.9.0
