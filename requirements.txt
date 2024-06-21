@@ -10,6 +10,6 @@ progressbar2==3.55.0
 pycodestyle==2.12.0
 pyparsing==2.4.7
 python-dateutil==2.9.0.post0
-python-utils==2.7.1
+python-utils==3.8.2
 six==1.16.0
 toml==0.10.2
