@@ -6,7 +6,7 @@ numpy==1.26.4
 opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 Pillow==10.3.0
-progressbar2==3.55.0
+progressbar2==4.4.2
 pycodestyle==2.12.0
 pyparsing==2.4.7
 python-dateutil==2.9.0.post0
