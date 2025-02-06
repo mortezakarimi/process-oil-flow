@@ -3,7 +3,7 @@ cycler==0.12.1
 kiwisolver==1.4.8
 matplotlib==3.10.0
 numpy==2.2.1
-opencv-contrib-python==4.10.0.84
+opencv-contrib-python==4.11.0.86
 opencv-python==4.10.0.84
 Pillow==11.1.0
 progressbar2==4.5.0
